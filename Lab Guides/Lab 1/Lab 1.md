@@ -131,7 +131,7 @@ VS Code.
 
 1.  Connect using SSMS:
 
-    - Server: <VM Public IP>,1433 (or local instance)
+    - Server: +++< VM Public IP >,1433+++ (or local instance)
 
     - Auth: SQL Server Authentication
 
@@ -635,6 +635,7 @@ meaning** to a doctor's query, using vector embeddings.
 ## Conclusion:
 
 This lab demonstrates how SQL Server 2025 evolves beyond a traditional relational database into an AI-powered data platform. By integrating Azure OpenAI embeddings directly within SQL, participants build a semantic case retrieval agent that allows doctors to search patient cases using natural language. Through vector indexing, cosine similarity search, and hybrid filtering, learners gain hands-on experience in implementing real-world AI-driven clinical search solutions inside the database engine.
+
 
 
 
